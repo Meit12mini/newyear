@@ -13,3 +13,4 @@ function agetest(user1: any, user2: any) {
 }
 
 console.log(agetest(user1, user2));
+

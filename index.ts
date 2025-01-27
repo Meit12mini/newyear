@@ -15,6 +15,6 @@ export const isEven = (num1: number):boolean => {
     } else {
         return false;
     }
-  // Реализация будет добавлена позже
+  
 };
 
